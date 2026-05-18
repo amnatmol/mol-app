@@ -1,0 +1,21 @@
+{
+  "short_name": "ระบบแรงงาน",
+  "name": "ระบบบริหารจัดการข้อมูล สำนักงานแรงงานจังหวัด",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#5B21B6",
+  "theme_color": "#5B21B6",
+  "display": "standalone",
+  "orientation": "portrait"
+}
